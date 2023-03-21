@@ -3,7 +3,7 @@
 budget = {'income': 0, 'expenses': {}, 'savings': 0}
 
 # get user input for income
-budget['income'] = float(input("Enter your total income: "))
+budget['income'] = float(input("Enter your total monthly income: "))
 
 # get user input for expenses
 num_expenses = int(input("How many expenses do you have? "))
